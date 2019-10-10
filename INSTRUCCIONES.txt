@@ -1,0 +1,7 @@
+Para tener todos un formato similar, se recomienda importar el archivo Eclipse_formatter_config\formatter_config.xml
+desde las opciones de Eclipse (Window->Preferences->Java->Code Style->Formatter).
+También, habilitar el formateo automático al guardar (Window->Preferences->Java->Editor->Save Actions) de la
+siguiente manera:
+Habilitar la opción "Perform the selected actions on save" -> "Format source code" -> "Format all lines"
+No recomiendo seleccionar la opción de "Organize imports", ya que puede ser bastante molesta y dicha acción
+se puede llevar a cabo fácilmente con el atajo "Ctrl + Shift + o".
