@@ -3,5 +3,7 @@ desde las opciones de Eclipse (Window->Preferences->Java->Code Style->Formatter)
 También, habilitar el formateo automático al guardar (Window->Preferences->Java->Editor->Save Actions) de la
 siguiente manera:
 Habilitar la opción "Perform the selected actions on save" -> "Format source code" -> "Format all lines"
+Ir a Window->Preferences->Java->Code Style->Formatter y ver que el campo "Active profile" sea el nuevo importado. Pulsar "Edit..."
+En el menú de la izquierda, seleccionar "Comments" y desmarcar la opción "Enable block comment formatting".
 No recomiendo seleccionar la opción de "Organize imports", ya que puede ser bastante molesta y dicha acción
 se puede llevar a cabo fácilmente con el atajo "Ctrl + Shift + o".
